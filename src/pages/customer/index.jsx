@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./style.module.scss";
 import Header from "../../layout/Header";
-import Sidebar from "../../layout/SideBar";
+import Sidebar from "../../layout/Sidebar";
 import CustomerList from "../../components/CustomerList";
 
 const Customer = () => {

@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 const Sidebar = () => {
   return (
-    <div className={styles.sideBar}>
+    <div className={styles.sidebar}>
       <ul className={styles.menu}>
         <li>
           <Link to="/">ホーム</Link>
